@@ -1,0 +1,6 @@
+I have many and ancient lists of web bookmarks.  I want something that
+can read bookmark files, and at the very least verify if the links are
+still live.  Output should maybe be a new bookmarks file with dead
+links pruned, and if I can automate some form of organization, that
+would be even better.
+
